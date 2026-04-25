@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+
+# TensorFlow with CPU support (safe for most users)
+tensorflow
